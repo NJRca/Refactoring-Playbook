@@ -18,3 +18,8 @@ UI[Interface] --> APP[Application]
 APP --> DOM[Domain]
 APP --> ADP[Infra Adapters]
 ADP --> EXT[(DB/HTTP/FS)]
+
+## 4) `/docs/DECISIONS.md`  *(empty log to start)*
+```md
+# Architectural Decision Records
+<!-- Append ADRs using the template in /prompts/10_refactor_playbook.md -->

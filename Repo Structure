@@ -1,0 +1,15 @@
+/docs/
+  ARCHITECTURE.md
+  DECISIONS.md
+/prompts/
+  10_refactor_playbook.md
+  20_review_checklist.md
+.github/
+  pull_request_template.md
+.devcontainer/
+  devcontainer.json
+  Dockerfile
+Makefile
+.pre-commit-config.yaml
+.editorconfig
+CODEOWNERS

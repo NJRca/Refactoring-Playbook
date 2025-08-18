@@ -1,0 +1,14 @@
+{
+  "customizations": {
+    "commands": [
+      {
+        "name": "Refactor with Context",
+        "instruction": "Before suggesting changes, read /docs/ARCHITECTURE.md and /prompts/10_refactor_playbook.md. Ensure suggestions keep environment portable and contracts stable."
+      },
+      {
+        "name": "Test First",
+        "instruction": "Whenever adding or modifying logic, also suggest relevant unit or integration tests. Use snapshot/contract tests for critical APIs."
+      }
+    ]
+  }
+}

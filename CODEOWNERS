@@ -1,0 +1,8 @@
+# CODEOWNERS
+# Replace <your-github-handle-or-team> with your GitHub username or team after forking or cloning.
+# Example: @username or @org/team
+/devcontainer/*         <your-github-handle-or-team>
+Dockerfile              <your-github-handle-or-team>
+/.github/*              <your-github-handle-or-team>
+/prompts/*              <your-github-handle-or-team>
+/docs/*                 <your-github-handle-or-team>

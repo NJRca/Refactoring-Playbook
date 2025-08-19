@@ -1,0 +1,7 @@
+@layer base {
+
+    /* ...other base styles... */
+    #lovable-badge {
+        display: none !important;
+    }
+}
